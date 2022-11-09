@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Giftd",
+    "slug": "Giftd",
+    "privacy": "unlisted",
+    "owner": "josepuma000_org",
+    "version": "3.4.6",
+    "orientation": "portrait",
+    "icon": "./assets/images/favicon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7B61FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.gift.oddsfeed"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gift.oddsfeed"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": ""
+  }
+}
